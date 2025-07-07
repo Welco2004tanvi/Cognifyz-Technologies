@@ -1,5 +1,4 @@
 📊 Cognifyz Data Visualization Internship – Excel Projects
-
 Welcome to the official repository for my Data Visualization Internship at Cognifyz Technologies, where I explored Excel-based analysis and visualization techniques for real-world data.
 
 
